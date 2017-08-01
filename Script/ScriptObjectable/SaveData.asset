@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33030d09fb8961f4896539cd3437bb92, type: 3}
+  m_Name: SaveData
+  m_EditorClassIdentifier: 
+  allGun: []
+  allRune: []
+  gunPlyer: {fileID: 1984643623805004, guid: 53ff109b3988d264dbee68d097acb478, type: 2}
+  runePlayer: {fileID: 1276526921351466, guid: 9bc6552e801a68246aecf9b26f569d24, type: 2}
+  gold: 0
+  diamond: 0
+  energy: 0
+  goldReceived: 0
+  diamondUsed: 0
+  state: 0
+  timer: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
+  completeState: 00000000000000000000
+  numOfMonster: 5
+  numOfBoss: 0
+  levelMonster: 0
+  map: Desert
+  nameUser: 
